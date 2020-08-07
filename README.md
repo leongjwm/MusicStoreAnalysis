@@ -1,4 +1,4 @@
-# MusicStoreAnalysis
-The goal of this project is to examine how we can make appropriate business decisions to potentially maximise sales in a digital media store, using SQL.
+# DigitalStoreAnalysis
+The aim of this project is to examine how we can make appropriate business decisions to potentially maximise our sales by analysing our data using SQL. We will be using [SQLite](https://en.wikipedia.org/wiki/SQLite), a relational database management system (RMDBS).
 
-The dataset is a modified version of a sample dataset from the iTunes Library, where the dataset is meant to imitate the data collected from a digital media store.
+We will be using a database from a digital media store similar to the iTunes Library. It contains several tables which stores information of customers, invoices, artists, albums, and tracks from its store.
