@@ -5,4 +5,7 @@ We will be using a database from a digital media store similar to the iTunes Lib
 
 **Edit:** To attest to my striving of improvement, my HackerRank certificates are attached below.
 
+[![sqlBasic](https://github.com/leongjwm/MusicStoreAnalysis/blob/master/HackerRank_Certificates/sql_basic_cert.png)](#sqlBasic)
+[![sqlIntermediate](https://github.com/leongjwm/MusicStoreAnalysis/blob/master/HackerRank_Certificates/sql_intermediate_cert.png)](#sqlIntermediate)
+
 
